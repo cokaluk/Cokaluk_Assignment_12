@@ -10,10 +10,10 @@
 4. verify the installation by opening a terminal and typing "docker --version"
 
 # if you haven't already, clone the repository where you found this README.md
-
+# open a terminal in the directory you wish to clone the files to and type
 5. git clone https://github.com/cokaluk/Cokaluk_Assignment_12.git
 
-# navigate into the project
+# then navigate into the project directory
 6. cd okaluk_cody_ui_garden
 
 # build the image
