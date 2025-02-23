@@ -11,7 +11,7 @@
 
 # if you haven't already, clone the repository where you found this README.md
 
-5. git clone https://github.com/cokaluk/Cokaluk_Assignment_12
+5. git clone https://github.com/cokaluk/Cokaluk_Assignment_12.git
 
 # navigate into the project
 6. cd okaluk_cody_ui_garden
